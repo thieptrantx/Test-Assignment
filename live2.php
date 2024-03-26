@@ -1,14 +1,14 @@
 <h1>PHP</h1>
 <hr />
-<p>Please mention what wrong and correct the code.</p>
+<p>Please mention what's wrong and correct the code.</p>
 
 <?php
 
-//1. What wrong with these lines code below?
+//1. What's wrong with the below lines of code?
 $username = $_GET['username'];
 $sql = "SELECT * FROM user WHERE username = '$username'";
 
-//2. What wrong with these lines code below?
+//2. What's wrong with the below lines of code?
 $arr = [
 	'a' => 'ABC',
 	'b' => 'DEF',
@@ -22,7 +22,7 @@ if($arr[$k]) {
 	var_dump($arr[$k])
 }
 
-//3. What wrong with these lines code below?
+//3. What's wrong with the below lines of code?
 $arr = [
 	'a' => 'ABC',
 	'b' => 'DEF',
@@ -44,7 +44,7 @@ if($valid) {
 	echo 'INVALID';
 }
 
-//4. What wrong with these lines code below?
+//4. What's wrong with the below lines of code?
 
 $i = 10;
 $count = 0;
@@ -54,7 +54,7 @@ while ($i < 10) {
 
 echo $count;
 
-//5. What wrong with these lines code below (Yii2 framework)?
+//5. What's wrong with the below lines of code (Yii2 framework)?
 class ServiceController extends \xii\web\Controller {
 	//url service/test-result
 	public function actiontestResult() {
