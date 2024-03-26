@@ -1,4 +1,4 @@
-<h1>Test 10 - Practice 4</h1>
+<h1>Search Improvement</h1>
 <hr />
 <p>Could you please check the code below and improve the search function in Model</p>
 <?php

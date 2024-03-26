@@ -1,4 +1,4 @@
-<h1>Test 4 - Git & Composer</h1>
+<h1>Git & Composer</h1>
 <hr />
 <h2>GIT cases</h2>
 <ul>

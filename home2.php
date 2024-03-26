@@ -1,4 +1,4 @@
-<h1>Test 3 - Cronjob</h1>
+<h1>Cronjob</h1>
 <hr />
 <p>Setup a cronjob to automatic send mail to responsible for webshop order</p>
 <ul>

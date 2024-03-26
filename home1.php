@@ -1,4 +1,4 @@
-<h1>Test 2 - PHP: Webhook API</h1>
+<h1>Webhook API</h1>
 <hr />
 <p>e.g https://wwww.example.com/api/webhook-enpoint</p>
 <ul>

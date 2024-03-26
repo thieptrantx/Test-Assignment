@@ -1,4 +1,4 @@
-<h1>Test 9 - Practice 3</h1>
+<h1>Yii2 Framework</h1>
 <hr />
 <p>For Yii2 framework the "CSRF" validation always enabled for any request submit to our website. To allow third party submit the data to our website, we need to allow submittion without CSRF validation. How can we disable CSRF validation?</p>
 

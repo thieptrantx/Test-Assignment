@@ -1,4 +1,4 @@
-<h1>Test 6 - FE: UI/UX</h1>
+<h1>FE: UI/UX</h1>
 <hr />
 <p>Write an example for build a table (#, Full Name, Email, Address, Company Name, Created At) 42 items use bootstrap, jquery</p>
 <ul>

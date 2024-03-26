@@ -1,4 +1,4 @@
-<h1>Test 5 - Server: Ubuntu</h1>
+<h1>Server: Ubuntu</h1>
 <hr />
 <p>Write the command lines on Ubuntu server</p>
 <ul>

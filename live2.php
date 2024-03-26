@@ -1,4 +1,4 @@
-<h1>Test 7 - Practice 1</h1>
+<h1>PHP</h1>
 <hr />
 <p>Please mention what wrong and correct the code.</p>
 
