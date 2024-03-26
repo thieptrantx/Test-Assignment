@@ -1,4 +1,4 @@
-<h1>Test 1 - MySQL: Query</h1>
+<h1>Test 1 - MySQL</h1>
 <hr />
 <h2>MySQL: Query</h2>
 <p>Table tbl_contents have 1M records with columns: id, cate_id, title, content, published(0,1), created_at, updated_at (model Content)</p>
